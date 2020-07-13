@@ -1,0 +1,14 @@
+permissions:
+  scopes: []
+modules:
+  macro:
+    - key: forge-unsplash
+      function: main
+      title: Forge-Unsplash
+      description: View random Unsplash photos!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: "ari:cloud:ecosystem::app/f28715a6-3363-4864-ba46-0061b60e8564"
+  name: forge-unsplash
