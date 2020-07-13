@@ -1,37 +1,24 @@
-# Forge Hello World (Typescript)
+# Forge - Unsplash
 
-This project contains a Forge app written in Typescript that displays `Hello World!` in a Confluence macro. 
+Unsplash is a website dedicated to sharing stock photography. The website claims over 110,000 contributing photographers and generates more than 11 billion photo impressions per month on their growing library of over 1.5 million photos.
 
-See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
+## What it does
 
-## Requirements
+Makes it a breeze to incorporate the beautiful HD photography of Unsplash into the joyous confines of Confluence pages.
 
-See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
+## How I built it
 
-## Quick start
+Blood, Sweat, Tears
 
-- Modify your app by editing the `src/index.tsx` file.
+## Challenges I ran into
 
-- Build and deploy your app by running:
-```
-forge deploy
-```
+Inconsistent Documentation
+Unsplash rate limits
 
-- Install your app in an Atlassian site by running:
-```
-forge install
-```
+## Accomplishments that I'm proud of
 
-- Develop your app by running `forge tunnel` to proxy invocations locally:
-```
-forge tunnel
-```
+That I stayed sane after this experience
 
-### Notes
-- Use the `forge deploy` command when you want to persist code changes.
-- Use the `forge install` command when you want to install the app on a new site.
-- Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
+## What's next for Forge-Unsplash
 
-## Support
-
-See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
+World domination
