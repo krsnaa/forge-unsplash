@@ -21,7 +21,7 @@
     "@forge/api": "^0.4.2",
     "@forge/ui": "^0.3.1",
     "@forge/ui-confluence": "^0.3.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "unsplash-js": "^6.0.0"
   }
 }
